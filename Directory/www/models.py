@@ -6,6 +6,8 @@ class Person(models.Model):
     email = models.CharField(max_length=100)
     title = models.CharField(max_length=100)
     image = models.CharField(max_length=200)
+    slug = models.SlugField(max_length=40)
 
     def __str__(self):
         return self.name
+

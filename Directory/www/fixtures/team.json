@@ -6,7 +6,8 @@
       "name": "Adam Fortuna",
       "title": "Course Director",
       "email": "adam@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/12/thumb_0F3A2595.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/12/thumb_0F3A2595.jpg",
+      "slug": "adam_fortuna"
     }
   },
   {
@@ -16,7 +17,8 @@
       "name": "Adam Rensel",
       "title": "Developer",
       "email": "adamrensel@codeschool.com",
-      "image": "https://gravatar.com/avatar/22fcded03f843134d3a7a9f1aa77cae8.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png"
+      "image": "https://gravatar.com/avatar/22fcded03f843134d3a7a9f1aa77cae8.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png",
+      "slug": "adam_rensel"
     }
   },
   {
@@ -26,7 +28,8 @@
       "name": "Ann Grafelman",
       "title": "Designer",
       "email": "ann@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/15/thumb_0F3A0961.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/15/thumb_0F3A0961.jpg",
+      "slug": "ann_grafelman"
     }
   },
   {
@@ -36,7 +39,8 @@
       "name": "Ashley Emert",
       "title": "Copy Specialist",
       "email": "aemert@codeschool.com",
-      "image": "https://gravatar.com/avatar/61f911ea6c84a013aba5a78715dbcb43.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png"
+      "image": "https://gravatar.com/avatar/61f911ea6c84a013aba5a78715dbcb43.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png",
+      "slug": "ashley_emert"
     }
   },
   {
@@ -46,7 +50,8 @@
       "name": "Ashley Smith",
       "title": "Chief Operating Officer",
       "email": "ashley@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/8/thumb_stock-photo-120972687.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/8/thumb_stock-photo-120972687.jpg",
+      "slug": "ashley_smith"
     }
   },
   {
@@ -56,7 +61,8 @@
       "name": "Bijan Boustani",
       "title": "Developer",
       "email": "bijan@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/18/thumb_0F3A3143.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/18/thumb_0F3A3143.jpg",
+      "slug": "bijan_boustani"
     }
   },
   {
@@ -66,7 +72,8 @@
       "name": "Brittany Luttrell",
       "title": "Team Support Specialist",
       "email": "brittany@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/42/thumb_0F3A2688.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/42/thumb_0F3A2688.jpg",
+      "slug": "brittany_luttrell"
     }
   },
   {
@@ -76,7 +83,8 @@
       "name": "Brittany Stephens",
       "title": "Administrative Assistant",
       "email": "bstephens@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/60/thumb_image1__1_.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/60/thumb_image1__1_.jpg",
+      "slug": "brittany_stephens"
     }
   },
   {
@@ -86,7 +94,8 @@
       "name": "Carlos Souza",
       "title": "Content Author",
       "email": "carlos@codeschool.com",
-      "image": "https://gravatar.com/avatar/98555e0e6bd0003a02a022e98fece10c.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png"
+      "image": "https://gravatar.com/avatar/98555e0e6bd0003a02a022e98fece10c.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png",
+      "slug": "carlos_souza"
     }
   },
   {
@@ -96,7 +105,8 @@
       "name": "Cher Cloude",
       "title": "Designer",
       "email": "cher@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/50/thumb_0F3A0895.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/50/thumb_0F3A0895.jpg",
+      "slug": "cher_cloude"
     }
   },
   {
@@ -106,7 +116,8 @@
       "name": "Christine Wong",
       "title": "Office Manager",
       "email": "christine@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/22/thumb_0F3A4859.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/22/thumb_0F3A4859.jpg",
+      "slug": "christine_wong"
     }
   },
   {
@@ -116,7 +127,8 @@
       "name": "Corey Rabazinski",
       "title": "Marketing Manager",
       "email": "corey@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/36/thumb_0F3A5210.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/36/thumb_0F3A5210.jpg",
+      "slug": "corey_rabazinski"
     }
   },
   {
@@ -126,7 +138,8 @@
       "name": "Dan Bickford",
       "title": "Developer",
       "email": "dbickford@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/16/thumb_stock-photo-120973757.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/16/thumb_stock-photo-120973757.jpg",
+      "slug": "dan_bickford"
     }
   },
   {
@@ -136,7 +149,8 @@
       "name": "Dan Denney",
       "title": "Front-end Developer",
       "email": "dand@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/3/thumb_0F3A2027.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/3/thumb_0F3A2027.jpg",
+      "slug": "dan_denney"
     }
   },
   {
@@ -146,7 +160,8 @@
       "name": "Drew Barontini",
       "title": "Front-end Director",
       "email": "drew@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/2/thumb_0F3A2449.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/2/thumb_0F3A2449.jpg",
+      "slug": "drew_barontini"
     }
   },
   {
@@ -156,7 +171,8 @@
       "name": "Eric Fisher",
       "title": "Content Author",
       "email": "eric@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/57/thumb_0F3A4841.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/57/thumb_0F3A4841.jpg",
+      "slug": "eric_fisher"
     }
   },
   {
@@ -166,7 +182,9 @@
       "name": "Hampton Paulk",
       "title": "Senior Content Producer",
       "email": "hampton@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/61/thumb_Paulk__Hampton_-_ID_Photo.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/61/thumb_Paulk__Hampton_-_ID_Photo.jpg",
+      "slug": "hampton_paulk"
+
     }
   },
   {
@@ -176,7 +194,8 @@
       "name": "Hemarie Jones",
       "title": "Marketing Project Manager",
       "email": "hemarie@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/49/thumb_DSC02799.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/49/thumb_DSC02799.jpg",
+      "slug": "hemarie_jones"
     }
   },
   {
@@ -186,7 +205,8 @@
       "name": "Joel Taylor",
       "title": "Developer",
       "email": "joel@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/13/thumb_0F3A2389.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/13/thumb_0F3A2389.jpg",
+      "slug": "joel_taylor"
     }
   },
   {
@@ -196,7 +216,8 @@
       "name": "John Jameson",
       "title": "Front-end Developer",
       "email": "jdj@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/4/thumb_0F3A1073.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/4/thumb_0F3A1073.jpg",
+      "slug": "john_jameson"
     }
   },
   {
@@ -206,7 +227,8 @@
       "name": "Jon Friskics",
       "title": "Content Director",
       "email": "jon@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/11/thumb_0F3A1350.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/11/thumb_0F3A1350.jpg",
+      "slug": "jon_friskics"
     }
   },
   {
@@ -216,7 +238,8 @@
       "name": "Jordan Wade",
       "title": "Front-end Developer",
       "email": "jordan@codeschool.com",
-      "image": "https://gravatar.com/avatar/1cb639db981178753e10a8ba150831ba.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png"
+      "image": "https://gravatar.com/avatar/1cb639db981178753e10a8ba150831ba.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png",
+      "slug": "jordan_wade"
     }
   },
   {
@@ -226,7 +249,8 @@
       "name": "Joseph Perez",
       "title": "Support Director",
       "email": "joseph@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/29/thumb_stock-photo-120972857.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/29/thumb_stock-photo-120972857.jpg",
+      "slug": "joseph_perez"
     }
   },
   {
@@ -236,7 +260,8 @@
       "name": "Justin Mezzell",
       "title": "Art Director",
       "email": "justin@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/47/thumb_stock-photo-120972601.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/47/thumb_stock-photo-120972601.jpg",
+      "slug": "justin_mezzell"
     }
   },
   {
@@ -246,7 +271,8 @@
       "name": "Katie Delfin",
       "title": "Developer",
       "email": "katie@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/10/thumb_DSC04476.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/10/thumb_DSC04476.jpg",
+      "slug": "katie_delfin"
     }
   },
   {
@@ -256,7 +282,8 @@
       "name": "Matt Adams",
       "title": "Data Analyst",
       "email": "matt@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/17/thumb_0F3A2759.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/17/thumb_0F3A2759.jpg",
+      "slug": "matt_adams"
     }
   },
   {
@@ -266,7 +293,8 @@
       "name": "Morgan Laco",
       "title": "Developer",
       "email": "morgan@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/32/thumb_stock-photo-120973569.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/32/thumb_stock-photo-120973569.jpg",
+      "slug": "morgan_laco"
     }
   },
   {
@@ -276,7 +304,8 @@
       "name": "Neela Balkaran",
       "title": "Developer",
       "email": "neela@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/52/thumb_0F3A4960-2.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/52/thumb_0F3A4960-2.jpg",
+      "slug": "neela_balkaran"
     }
   },
   {
@@ -286,7 +315,8 @@
       "name": "Nicholas Roberts",
       "title": "Marketing Coordinator",
       "email": "nroberts@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/45/thumb_stock-photo-120972445.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/45/thumb_stock-photo-120972445.jpg",
+      "slug": "nicholas_roberts"
     }
   },
   {
@@ -296,7 +326,8 @@
       "name": "Nick Wronski",
       "title": "Developer",
       "email": "nwronski@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/21/thumb_0F3A1467.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/21/thumb_0F3A1467.jpg",
+      "slug": "nick_wronski"
     }
   },
   {
@@ -306,7 +337,8 @@
       "name": "Oliver Tosh",
       "title": "Media Production Specialist",
       "email": "oliver@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/58/thumb_DSC03641.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/58/thumb_DSC03641.jpg",
+      "slug": "oliver_tosh"
     }
   },
   {
@@ -316,7 +348,8 @@
       "name": "Olivia Howard",
       "title": "Designer",
       "email": "olivia@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/54/thumb_0F3A0866.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/54/thumb_0F3A0866.jpg",
+      "slug": "olivia_howard"
     }
   },
   {
@@ -326,7 +359,8 @@
       "name": "Olivier Lacan",
       "title": "Developer",
       "email": "olivier@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/7/thumb_stock-photo-120973397.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/7/thumb_stock-photo-120973397.jpg",
+      "slug": "olivia_lacan"
     }
   },
   {
@@ -336,7 +370,8 @@
       "name": "Robert Babcock",
       "title": "Technical Support Specialist",
       "email": "robert@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/55/thumb_0F3A5043.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/55/thumb_0F3A5043.jpg",
+      "slug": "robert_babcock"
     }
   },
   {
@@ -346,7 +381,8 @@
       "name": "Russell Centanni",
       "title": "Developer",
       "email": "russell@codeschool.com",
-      "image": "https://gravatar.com/avatar/7e5d8169c63398f1146018b7eb83342b.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png"
+      "image": "https://gravatar.com/avatar/7e5d8169c63398f1146018b7eb83342b.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png",
+      "slug": "russell_centanni"
     }
   },
   {
@@ -356,7 +392,8 @@
       "name": "Samantha Anastasia",
       "title": "Senior Project Manager",
       "email": "samantha@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/23/thumb_stock-photo-120972669.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/23/thumb_stock-photo-120972669.jpg",
+      "slug": "samantha_anastasia"
     }
   },
   {
@@ -366,7 +403,8 @@
       "name": "Sarah Doss",
       "title": "HR/Culture Coordinator",
       "email": "sarahdoss@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/62/thumb_stock-photo-120973719.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/62/thumb_stock-photo-120973719.jpg",
+      "slug": "sarah_doss"
     }
   },
   {
@@ -376,7 +414,8 @@
       "name": "Sarah Holderness",
       "title": "Content Author",
       "email": "sholderness@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/59/thumb_DSC02617.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/59/thumb_DSC02617.jpg",
+      "slug": "sarah_holderness"
     }
   },
   {
@@ -386,7 +425,8 @@
       "name": "Sarah Imbert",
       "title": "Project Manager",
       "email": "sarah@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/25/thumb_WorkPics-2-min.png"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/25/thumb_WorkPics-2-min.png",
+      "slug": "sarah_imbert"
     }
   },
   {
@@ -396,7 +436,8 @@
       "name": "Sergio Cruz",
       "title": "Developer",
       "email": "sergio@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/31/thumb_0F3A4898.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/31/thumb_0F3A4898.jpg",
+      "slug": "sergio_cruz"
     }
   },
   {
@@ -406,7 +447,8 @@
       "name": "Stefan Nychka",
       "title": "Technical Support Specialist",
       "email": "stefan@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/37/thumb_0F3A9671.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/37/thumb_0F3A9671.jpg",
+      "slug": "stefan_nychka"
     }
   },
   {
@@ -416,7 +458,8 @@
       "name": "Thomas Meeks",
       "title": "Internal Development Director",
       "email": "thomas@codeschool.com",
-      "image": "https://gravatar.com/avatar/ae9c8f8d1e702bd3ed7aafc92195ed0d.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png"
+      "image": "https://gravatar.com/avatar/ae9c8f8d1e702bd3ed7aafc92195ed0d.png?s=220&d=https%3A%2F%2Fcourseware.codeschool.com.s3.amazonaws.com%2Fassets%2Fdirectory%2Fdefault-avatar.png",
+      "slug": "thomas_meeks"
     }
   },
   {
@@ -426,7 +469,8 @@
       "name": "Zach Cowart",
       "title": "Customer Support Specialist",
       "email": "zach@codeschool.com",
-      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/30/thumb_0F3A7382.jpg"
+      "image": "https://codeschool-directory.s3.amazonaws.com/uploads/member/portrait/30/thumb_0F3A7382.jpg",
+      "slug": "zach_cowart"
     }
   }
 ]
